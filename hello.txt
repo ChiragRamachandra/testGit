@@ -1,3 +1,5 @@
 select * from all;
 
 select secondLine from all;
+
+select thirdLine from all;
