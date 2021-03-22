@@ -1,1 +1,3 @@
 select * from all;
+
+select secondLine from all;
